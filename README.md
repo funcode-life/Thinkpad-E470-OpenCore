@@ -10,9 +10,9 @@
 
 ## 测试环境
 
-  - 系统版本（System Version）：MacOS Catalina 10.15.7
+  - 系统版本（System Version）：MacOS BigSur 11.1.0 / Catalina 10.15.7
 
-  - OC版本（OpenCore Version）：0.6.6
+  - OC版本（OpenCore Version）：0.6.7 / 0.6.6
 
   - 硬件信息（Hardware Info）：
 
